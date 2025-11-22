@@ -1,0 +1,16 @@
+{
+    "stt": {
+        "model_path": "C:\\Users\\forex\\Documents\\Models\\whisper\\base.pt"
+    },
+    "llm": {
+        "llama_1b": "C:\\Users\\forex\\Documents\\Models\\llama_1b",
+        "Qwen3VL-4B-Thinking": "C:\\Users\\forex\\Documents\\Models\\Qwen3VL-4B-Thinking",
+        "vibe_1.5b": "C:\\Users\\forex\\Documents\\Models\\Vibe_1.5B"
+    },
+    "tts": {
+        "config": "C:\\Users\\forex\\Documents\\Models\\xtts-v2\\config.json",
+        "checkpoint": "C:\\Users\\forex\\Documents\\Models\\xtts-v2\\model.pth",
+        "vocab": "C:\\Users\\forex\\Documents\\Models\\xtts-v2\\vocab.json",
+        "speakers": "C:\\Users\\forex\\Documents\\Models\\xtts-v2\\speakers_xtts.pth"
+    }
+}
